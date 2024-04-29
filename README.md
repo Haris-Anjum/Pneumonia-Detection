@@ -5,7 +5,7 @@
 ## Overview
 This repository contains the source code for a deep learning framework developed for automated pneumonia diagnosis. The framework utilizes Convolutional Neural Networks (CNNs) to analyze medical images and detect pneumonia with high accuracy and efficiency.
 
-[workkkk.pdf](https://github.com/Haris-Anjum/Pneumonia-Detection/files/15151909/workkkk.pdf)
+[Workflow_Model.pdf](https://github.com/Haris-Anjum/Pneumonia-Detection/files/15151909/workkkk.pdf)
 
 ## Key Features
 - **Advanced CNN Architecture:** Engineered a custom CNN architecture tailored for pneumonia detection, surpassing performance benchmarks set by pre-trained models like MobileNetV2 and DenseNet121.
